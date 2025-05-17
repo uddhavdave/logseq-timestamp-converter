@@ -10,6 +10,9 @@ This Logseq plugin converts unix timestamps to human-readable dates in both your
    - The date in your local timezone
    - The date in UTC
 
+### Demo
+![demo](./demo.gif)
+
 ### API
 
 [![npm version](https://badge.fury.io/js/%40logseq%2Flibs.svg)](https://badge.fury.io/js/%40logseq%2Flibs)
