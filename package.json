@@ -1,6 +1,6 @@
 {
   "name": "logseq-timestamp-converter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A utility to convert unix timestamps to readable dates",
   "author": "uddhavdave",
   "license": "MIT",
@@ -15,6 +15,6 @@
   "logseq": {
     "main": "dist/index.html",
     "icon": "./logo.png",
-    "id": "_ifb2iwsl4"
+    "id": "_fz7t9kgr3e"
   }
 }
